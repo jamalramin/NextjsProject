@@ -82,8 +82,6 @@ my-nextjs-project/
 │   ├── lib/
 │   └── dashboard/
 ├── public/
-├── .env.example
-├── .gitignore
 ├── next.config.ts
 ├── package.json
 ├── tsconfig.json
